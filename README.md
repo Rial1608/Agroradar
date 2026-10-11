@@ -150,7 +150,8 @@ Developed by: **Ritik Sharma**
 
 - Mobile App Integration  
 - Real-time disease mapping  
-- Multi-language support  
+- Multi-language ai voice chat support
+- soil information using iot devices
 - More crop datasets  
 
 ---
