@@ -88,5 +88,35 @@
     "risk_level": "MEDIUM",
     "risk_score": 44.78,
     "risk_color": "#eab308"
+  },
+  {
+    "id": "491dd46285bb",
+    "timestamp": "2026-10-08T05:38:11.464061Z",
+    "filename": "491dd46285bb.jpeg",
+    "image_url": "/uploads/491dd46285bb.jpeg",
+    "latitude": 30.7665891,
+    "longitude": 76.5748862,
+    "disease_name": "Tomato Late Blight",
+    "disease_class": "Tomato_Tomato__Late_blight",
+    "confidence": 66.96,
+    "is_diseased": true,
+    "risk_level": "LOW",
+    "risk_score": 26.78,
+    "risk_color": "#22c55e"
+  },
+  {
+    "id": "9c8eb173e252",
+    "timestamp": "2026-10-08T06:33:28.898824Z",
+    "filename": "9c8eb173e252.jpeg",
+    "image_url": "/uploads/9c8eb173e252.jpeg",
+    "latitude": 30.768692725070906,
+    "longitude": 76.57560142339054,
+    "disease_name": "Tomato Late Blight",
+    "disease_class": "Tomato_Tomato__Late_blight",
+    "confidence": 66.96,
+    "is_diseased": true,
+    "risk_level": "LOW",
+    "risk_score": 26.78,
+    "risk_color": "#22c55e"
   }
 ]
