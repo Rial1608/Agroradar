@@ -1,7 +1,7 @@
-# 🌾 Smart Crop Disease Detection System (Geo-Tagged)
+# 🌾 AgroRadar - Smart Crop Disease Detection System (Geo-Tagged)
 
 ## 📌 Overview
-The **Smart Crop Disease Detection System** is an AI-powered web application designed to identify crop diseases using image classification and provide location-based insights using geo-tagging.
+The **AGRO RADAR** is an AI-powered web application designed to identify crop diseases using image classification and provide location-based insights using geo-tagging.
 
 This system helps farmers, researchers, and agricultural experts detect plant diseases early and take preventive actions, improving crop yield and reducing losses.
 
